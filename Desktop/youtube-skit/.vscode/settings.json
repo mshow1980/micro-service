@@ -11,7 +11,7 @@
         },
         "jenkins-runner.hostConfigs": {
             "jenkins-master": {
-                "url": "http://54.157.186.160:8080",
+                "url": "http://3.239.207.235:8080",
                 "user": "Scion_Scope",
                 "password": "Control10"
             }
